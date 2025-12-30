@@ -29,7 +29,7 @@ def contact():
 
 
 @app.route("/chat")
-def contact():
+def chat():
     return "You can chat with live agent!"
 
 @app.route("/services")
